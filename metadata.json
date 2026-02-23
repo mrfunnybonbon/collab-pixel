@@ -1,0 +1,5 @@
+{
+  "name": "CollabPixel",
+  "description": "A collaborative pixel art and freehand drawing canvas with real-time sync.",
+  "requestFramePermissions": []
+}
